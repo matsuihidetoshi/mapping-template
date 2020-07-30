@@ -1,0 +1,6 @@
+{
+  "action": $input.json("$.action"),
+  "title": $input.json("$.title"),
+  "contact": $input.json("$.contact"),
+  "content": $input.json("$.content")
+}
